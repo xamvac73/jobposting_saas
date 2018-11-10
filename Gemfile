@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.1'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', group: [:development, :test]
 
-gem 'bootstrap-saas', '~> 4.1.3'
+gem 'bootstrap', '~> 4.1.3'
 #use bootrap library for styles
 
 # Use postgresql as the database for production
